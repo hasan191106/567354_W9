@@ -29,6 +29,7 @@ int main() {
     cout << "\n=== Circle Properties ===\n";
     cout << "distance       : " << r << endl;           // Jarak = radius
     cout << "Radius         : " << r << endl;           // Radius
+    cout << "Diameter       : " << 2 * r << endl;       // Diameter
     cout << "Circumference  : " << circumference(r) << endl; // Keliling
     cout << "Area           : " << area(r) << endl;     // Luas
 
